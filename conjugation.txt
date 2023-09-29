@@ -1,0 +1,6 @@
+
+Dictionary Form: miru, Te-Form: mite, Plain Past: mita
+Plain Negative: minai, Plain Past Negative: minakatta
+Masu-Form: mimasu, Polite Past: mimashita, Volitional: mitai
+Polite Negative: mimasen, Polite Past Negative: mimasendeshita
+Verb Type: ichidan, Verb Root: mi

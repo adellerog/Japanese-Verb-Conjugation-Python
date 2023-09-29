@@ -1,0 +1,2 @@
+class NotAlphabeticError(Exception):
+    pass
